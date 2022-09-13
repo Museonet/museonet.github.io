@@ -1,6 +1,8 @@
+---
 layout: page
 title: "Page 1"
 permalink: /page1/
+---
 
 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Curabitur pulvinar fringilla tellus, vitae dignissim magna interdum at. Integer feugiat volutpat sapien et sollicitudin. Sed nulla nunc, cursus id interdum vel, fermentum pretium neque. Integer laoreet enim nec nibh egestas porta. Maecenas lacinia massa non erat viverra, ac pretium nisi cursus. Duis arcu tellus, sagittis viverra ipsum vel, dignissim eleifend risus. Maecenas in porta libero. Maecenas ut lobortis elit. Praesent fermentum condimentum ullamcorper.
 
